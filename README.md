@@ -1,6 +1,6 @@
-# Problem-Solving
-### Here are links to some my profiles;
+### Problem Solving 
+Here are links to some my profiles;
 </br>
-|         No.| Online Judge                  | Links of the websites                                                       |
+|         No.| Online Judge                  | Handls                                                                      |
 |------------|-------------------------------|-----------------------------------------------------------------------------|
-|          1 | CodeForces                    | https://codeforces.com/profile/akrasian                                     |
+|          1 | CodeForces                    | [akrasian](https://codeforces.com/profile/akrasian)                         |
